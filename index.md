@@ -5,10 +5,10 @@
 ### Personal informations
 
 ---
-+ name: Anahita
-+ last name : Taheri
-+ Date of birth : 1979/November/29
-+ I am a trader and IT engineering student
++ name: Ali
++ last name : Fereidoonian
++ Date of birth : 1981/July/13
++ I am a system administration and IT engineering student
 + location : Tehran , I.R.Iran
 
 
