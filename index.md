@@ -1,5 +1,5 @@
 
-### Anahita Taheri
+### Ali Fereidoonian
 
 
 ### Personal informations
@@ -15,16 +15,25 @@
 ### Skill Highlights
 
 ---
-+ trade on Tehran Stock Exchange and Forex
-+ translating
++ Network+
++ MCSE 2016
++ CCNA
++ CCNP Switch & Route
++ System Center Operation manager (SCOM)
++ System Center Configuration manager (SCCM)
++ Oracle Database Administration
++ Docker
++ DevOps (Atlassian Solutions)
++ Lunux Administration
 
 
 ### Education
 
 ---
-+ Diploma : Aeen Tarbiat high school
-+ Bachelor of science : IT Engineering
-_ payam Noor University of North 
++ Diploma : Shariati high school
++ Bachelor of science : Agricultural Engineering Orientation to Agriculture and Plant Breeding
++ Master student of computer engineering software orientation payam Noor University of North 
+ 
 
 ### language
 
@@ -36,14 +45,14 @@ _ payam Noor University of North
 
 ---
 + Trade
-+ Studing historical books
++ Studing  books
 + travel 
-+ playing volleyball
++ playing football-ping pong-volyball and etc
 
 ### working Experience
 
 ---
-+ I am working in Caltural,Turism & Handicrafts Minister.
++ I am working in Postbank Network Master.
 
 
 
