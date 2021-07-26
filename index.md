@@ -10,7 +10,7 @@ body{
 ---
 + نام : علی
 + نام خانوادگی : فریدونیان
-+ تاریخ تولد : 1360
++ تاریخ تولد : 1360/04/22
 + دانشجوی کارشناسی ارشد مهندسی کامپیوتر گرایش نرم افزار 
 + موقعیت مکانی : ایران،تهران
 
@@ -27,6 +27,7 @@ body{
 + Oracle Database Administration
 + Docker
 + DevOps (Atlassian Solutions)
++ Linux Administration
 
 ### تحصیلات
 
