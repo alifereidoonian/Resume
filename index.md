@@ -1,61 +1,56 @@
+<style type="text/css">
+body{
+ direction:rtl;
+}
+</style>
+### علی فریدونیان
 
-### Ali Fereidoonian
-
-
-### Personal informations
+### اطلاعات شخصی
 
 ---
-+ name: Ali
-+ last name : Fereidoonian
-+ Date of birth : 1981/July/13
-+ I am a system administration and IT engineering student
-+ location : Tehran , I.R.Iran
++ نام : علی
++ نام خانوادگی : فریدونیان
++ تاریخ تولد : 1360
++ دانشجوی کارشناسی ارشد مهندسی کامپیوتر گرایش نرم افزار 
++ موقعیت مکانی : ایران،تهران
 
 
-### Skill Highlights
+### مهارت ها
 
 ---
 + Network+
-+ MCSE 2016
-+ CCNA
-+ CCNP Switch & Route
 + System Center Operation manager (SCOM)
 + System Center Configuration manager (SCCM)
++ CCNA
++ CCNP Switch & Route
++ MCSE 2016
 + Oracle Database Administration
 + Docker
 + DevOps (Atlassian Solutions)
-+ Lunux Administration
 
-
-### Education
+### تحصیلات
 
 ---
-+ Diploma : Shariati high school
-+ Bachelor of science : Agricultural Engineering Orientation to Agriculture and Plant Breeding
-+ Master student of computer engineering software orientation payam Noor University of North 
- 
++ دیپلم : تجربی
++ کارشناسی : مهندسی کشاورزی زراعت و اصلاح نباتات (ژنتیک گیاهی) 
++ دانشجوی کارشناسی ارشد پیام نور تهران شمال
 
-### language
-
----
-+ Persian
-+ English
-
-### Favorites
+### زبان های محاوره
 
 ---
-+ Trade
-+ Studing  books
-+ travel 
-+ playing football-ping pong-volyball and etc
++ فارسی
++ انگلیسی
 
-### working Experience
+### علایق
 
 ---
-+ I am working in Postbank Network Master.
++  معامله در بازار بورس و ارز دیجیتال  
++ مطالعه کتب 
++ مسافرت
++ ورزش (فوتبال-پینگ پونگ-والیبال و ...)
 
+### سوابق کاری
 
-
-
---- 
-### [رزومه فارسی](resume-fa.md)
+---
+  + کارشناس ارشد شبکه شرکت سامانه های کاربردی کلان همگام (سکه) وابسته به پست بانک از سال 1396 تا کنون
+  +  جانشین مدیر عامل و مدیر فنی شرکت امید هخامنش از سال 1385 تا 1395
