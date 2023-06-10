@@ -52,10 +52,4 @@
 ### working Experience
 
 ---
-+ I am working in Postbank Network Master.
-
-
-
-
-
-
++ I am working in Tata Bank Tejarat DevOps Engineer.
